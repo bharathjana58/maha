@@ -1,0 +1,130 @@
+    1  git -version
+    2  git --version
+    3  ipconfig
+    4  clear
+    5  git status
+    6  ls
+    7  git --version
+    8  ls
+    9  clear
+   10  cd
+   11  pwd
+   12  pwd
+   13  clear
+   14  ls -la
+   15  git init
+   16  ls -la
+   17  touch bharath.txt
+   18  ls -la
+   19  clear
+   20  ls -la
+   21  git status
+   22  git add bharath.txt 
+   23  git status
+   24  clear
+   25  git commit -m "bharath file commited" bharath.txt 
+   26  git config --global user.email "bharath.jana58@gmail.com"
+   27  git config --global user.name "bharathjana"
+   28  git commit -m "bharath file commited" bharath.txt 
+   29  clear
+   30  git status
+   31  git log 
+   32  git log --oneline
+   33  git clone https://github.com/bharathjana58/maha.git
+   34  ls
+   35  mv bharath.txt maha 
+   36  ls
+   37  cd maha
+   38  clear
+   39  pwd
+   40  git status
+   41  git add bharath.txt 
+   42  git status
+   43  git commit -m "second commit"
+   44  git status
+   45  git push https://github.com/bharathjana58/maha.git
+   46  clear
+   47  touch sample1 sample2 sample3
+   48  ls -la
+   49  git status
+   50  git add .
+   51  git status
+   52  git commit -m "sample files commited" 
+   53  git status
+   54  git log
+   55  git push https://github.com/bharathjana58/maha.git
+   56  clear
+   57  touch text
+   58  git status
+   59  git add .
+   60  git status
+   61  git commit -m "text file commited"
+   62  git status
+   63  git log
+   64  git push https://github.com/bharathjana58/maha.git
+   65  ls
+   66  cat sample1
+   67  git pull
+   68  git status
+   69  git push https://github.com/bharathjana58/maha.git
+   70  clear
+   71  cat sample1
+   72  git log
+   73  lear
+   74  clear
+   75  gitgittigkgntgi;JDNF
+   76  git log --oneline
+   77  git reset --soft 1c0e009
+   78  git status
+   79  git reset head sample1
+   80  git status
+   81  ls -la
+   82  clear
+   83  vim sample1
+   84  cat sample1
+   85  git status
+   86  git add .
+   87  git status
+   88  git commit -m "third commit"
+   89  git status
+   90  git push 
+   91  git pull
+   92  git push
+   93  git push 
+   94  git push 
+   95  git push 
+   96  git push 
+   97  git push https://github.com/bharathjana58/maha.git master
+   98  git push origin https://github.com/bharathjana58/maha.git master
+   99  clear
+  100  git status
+  101  git add .
+  102  git status
+  103  git commit -m "modifided file"
+  104  git status
+  105  git status
+  106  git push https://github.com/bharathjana58/maha.git
+  107  git branch -r
+  108  git branch
+  109  ls
+  110  cd maha/
+  111  ls
+  112  git branch dev
+  113  git branch
+  114  git checkout dev
+  115  git branch
+  116  ls
+  117  git push https://github.com/bharathjana58/maha.git dev
+  118  git checkout -b qa
+  119  ls
+  120  git checkout dev
+  121  git branch -d qa
+  122  git branchs
+  123  git branch
+  124  git checkout -b qa
+  125  git push https://github.com/bharathjana58/maha.git qa
+  126  git branch -d dev
+  127  git branch
+  128  git push origin -d dev
+  129  history
+  130  history >> test.txt
